@@ -1,0 +1,10 @@
+﻿Soft conflicts of Second Semester AY2023-2024 Finals Schedule.fet
+Generated with FET 6.9.5 on 6/23/24 2:13 PM
+
+Number of broken soft constraints: 0
+Total soft conflicts: 0
+
+Soft conflicts list (in decreasing order):
+
+
+End of file.
